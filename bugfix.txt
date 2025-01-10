@@ -1,2 +1,0 @@
-This is a new file which will be wsed for bugfix
-# This is in the new branch bugfix #
