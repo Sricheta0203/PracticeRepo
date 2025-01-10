@@ -1,1 +1,7 @@
 Another fixed bug.
+
+third bug is fixed
+
+fourth bug is fixed
+
+fifth bug is also fixed
