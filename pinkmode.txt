@@ -1,0 +1,4 @@
+A new branch pinkmode is created.
+
+Its colour is pink.
+A pink colour branch
